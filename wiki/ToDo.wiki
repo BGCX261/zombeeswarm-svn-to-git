@@ -1,0 +1,21 @@
+#summary What needs to be done
+
+= Introduction =
+
+This is where the things that needs to be done are listed, so that I don't forget them.
+
+= Details =
+
+==Important==
+
+  * (Check) Sound effect for when an entity has been hurt/killed
+  * (Check) Fix the way enemies attacks
+  * (Check) Enable multiple weapon-support
+  * (Check) Make Power Ups disappear other time while on the map
+  * (Check) Create a campaign of 5 levels
+
+==Not important==
+
+  * Add more enemies
+  * Add more power ups
+  * Add more weapons

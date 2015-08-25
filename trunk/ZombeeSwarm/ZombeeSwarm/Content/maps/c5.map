@@ -1,0 +1,1535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="ZombeeSwarm.Map">
+    <Swarms>
+      <Item>
+        <Enemies>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>61 50</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>131 50</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>185 49</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>239 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>292 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>349 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>407 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>463 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>515 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>564 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>623 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>675 47</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>728 47</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>43 117</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>42 168</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>42 227</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>42 278</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>45 328</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>46 376</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>46 430</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>46 484</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>46 532</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>103 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>161 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>214 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>267 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>324 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>381 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>431 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>479 575</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>532 574</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>587 574</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>639 573</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>698 573</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>747 573</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>752 522</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>751 469</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>743 417</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>742 364</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>741 313</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>741 263</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>740 211</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>740 162</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>740 113</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+        </Enemies>
+      </Item>
+      <Item>
+        <Enemies>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>48 36</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>51 86</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>58 136</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>59 188</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>58 240</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>54 291</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>47 341</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>40 404</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>36 456</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>35 509</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>35 557</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>86 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>120 528</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>115 477</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>108 426</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>108 371</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>115 320</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>120 269</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>120 218</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>120 166</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>122 117</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>122 68</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>189 32</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 85</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 142</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 200</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 249</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 300</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 353</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 402</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 451</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 515</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>192 568</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>245 593</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>274 544</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>271 495</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>264 442</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>260 386</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>260 338</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>260 289</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>260 240</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>258 187</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>255 138</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>253 87</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>311 43</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>364 43</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>420 43</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>471 43</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>528 42</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>643 39</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>697 36</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>746 35</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>323 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>379 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>438 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>489 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>549 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>607 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>662 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>713 583</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>766 583</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+        </Enemies>
+      </Item>
+      <Item>
+        <Enemies>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>29 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>91 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>146 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>205 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>264 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>324 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>403 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>481 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>543 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>596 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>644 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>696 39</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>745 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>112 89</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>57 95</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>32 145</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>33 201</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 254</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 310</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 362</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 410</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 459</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 512</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>34 565</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>85 585</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>140 589</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>189 589</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>239 591</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>295 591</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>348 591</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>404 586</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>460 578</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>511 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>566 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>621 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>675 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>723 576</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>773 567</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>721 520</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>665 526</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>398 533</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>347 533</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>298 533</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>246 533</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>194 533</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>141 527</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>91 514</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>94 465</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>99 416</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>100 365</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>101 315</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>101 266</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>101 217</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>101 169</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>163 115</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>212 91</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>260 90</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>310 98</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>360 99</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>412 99</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>462 99</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>513 99</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>564 99</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>612 100</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>661 100</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>714 100</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>763 111</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>775 159</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>782 207</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>785 255</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>779 303</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>779 356</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>779 405</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>779 458</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>779 506</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>613 483</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>565 517</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>460 529</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>426 479</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>369 474</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>314 479</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>266 479</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+        </Enemies>
+      </Item>
+      <Item>
+        <Enemies>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>43 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <!--<Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>92 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>149 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>209 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>260 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>312 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>368 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>429 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>486 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>539 36</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>597 34</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>650 34</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>707 34</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>755 34</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>763 82</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>763 131</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>763 180</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>763 229</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>762 283</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>760 333</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>758 381</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>758 431</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>758 481</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>758 530</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>698 570</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <!--<Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>642 570</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>594 570</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>545 570</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>489 571</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>439 571</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>386 571</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>331 571</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>278 571</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>229 571</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>178 570</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>124 566</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>74 559</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>40 509</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>40 457</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>39 405</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>35 357</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>35 308</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>37 258</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>37 210</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>37 160</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>37 109</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <!--<Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>94 105</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>158 105</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>212 105</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>274 105</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>335 105</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>394 102</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>455 93</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>514 93</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>566 93</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>616 91</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>664 90</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>712 90</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>709 139</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>709 189</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>703 237</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>698 285</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>694 337</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>687 386</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>687 434</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>687 482</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>639 522</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>591 519</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>539 518</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>491 517</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>436 514</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>388 509</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>334 509</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>282 509</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>228 509</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>178 508</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>130 506</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>94 457</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>101 406</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>104 358</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>104 310</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>104 258</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>104 207</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>104 156</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+        </Enemies>
+      </Item>
+      <Item>
+        <Enemies>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>39 33</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>43 84</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>91 99</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>117 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>177 23</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>175 71</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>174 119</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>174 167</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>120 169</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>72 168</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>22 164</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>12 213</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>66 224</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>115 221</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>168 217</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>223 211</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>237 163</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>234 113</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>234 60</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>236 11</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>766 29</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>711 30</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>710 90</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>764 91</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>662 25</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <!--<Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>658 74</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>658 124</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>708 146</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>759 145</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>775 195</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>723 200</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>675 196</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>625 188</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 139</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 89</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 41</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>768 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>767 517</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>715 521</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>717 584</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <!--<Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>656 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>656 531</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>659 483</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>708 459</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>756 459</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>660 422</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>608 431</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 480</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 528</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>586 577</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>726 411</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>774 408</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>36 582</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>36 534</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>85 525</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyBeeHive">
+            <Position>90 576</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>33 472</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>84 471</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>133 473</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>150 522</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>149 574</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>197 591</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>200 540</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>203 492</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>206 442</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>158 418</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>107 421</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>43 423</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>262 498</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>318 496</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>373 494</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>425 492</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>475 492</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>523 492</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>310 546</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>368 547</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>422 547</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>473 545</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>526 545</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>386 595</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>336 595</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>258 581</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>537 594</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>439 599</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>735 360</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>742 307</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>742 259</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>790 349</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>790 290</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>531 55</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>472 54</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>419 52</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>369 48</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>318 40</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>504 5</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <!--<Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>407 101</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>352 96</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>302 93</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>9 261</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>3 311</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>3 360</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+          <!--<Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>71 373</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>67 322</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>63 272</Position>
+            <IsAlive>true</IsAlive>
+          </Item>
+          <Item Type="ZombeeSwarm.EntityEnemyZombee">
+            <Position>499 106</Position>
+            <IsAlive>true</IsAlive>
+          </Item>-->
+        </Enemies>
+      </Item>
+    </Swarms>
+  </Asset>
+</XnaContent>
